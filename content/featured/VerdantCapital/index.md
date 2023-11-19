@@ -1,9 +1,9 @@
 ---
-date: '1'
+date: '2'
 title: 'Verdant Capital'
 cover: 'verdant.png'
-github: 'https://github.com/caimconsulting/caim-consulting-website'
-external: 'https://caimconsulting.in/'
+github: 'https://github.com/allanXQ/Verdant_v2'
+external: 'https://verdantcapital.vercel.app/dashboard'
 tech:
   - React JS
   - Material UI

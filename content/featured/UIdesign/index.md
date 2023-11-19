@@ -1,12 +1,12 @@
 ---
 date: '4'
-title: 'Kenjose'
+title: 'UI design'
 cover: './kenjose.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: 'https://kenjose.vercel.app/'
+github: 'https://github.com/allanXQ/kenjose'
 tech:
   - React
   - Tailwind CSS
 ---
 
-UI design for a sculptures portfolio website
+UI design for a website used to display animal sculptures.

@@ -1,12 +1,12 @@
 ---
-date: '2022-12-28'
+date: '3'
 title: 'Software Developer'
 company: 'Spraxa Solutions Pvt Ltd'
 range: 'Dec 2022 - Present'
 url: 'https://www.spraxa.com/'
 ---
 
-- Delivering high-quality, robust production code for a diverse array of projects for clients including the Stris corporation
+- Delivering high-quality, robust production code for a diverse array of projects for clients including the Steris corporation
 
 - Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholder
 
