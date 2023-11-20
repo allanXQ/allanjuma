@@ -4,7 +4,6 @@ title: 'Software Developer(volunteer)'
 company: 'Vesta Systems'
 location: 'Bungoma'
 range: 'Apr 2020-Dec 2021'
-url: 'https://www.arcvesta.dev/'
 ---
 
 - Gained comprehensive exposure to the software development lifecycle, from requirement analysis to

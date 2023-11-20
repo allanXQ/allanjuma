@@ -4,7 +4,6 @@ title: 'Software Developer'
 company: 'Vesta Systems'
 location: 'Bungoma'
 range: 'Jan 2021-Dec 2022'
-url: 'https://www.arcvesta.dev/'
 ---
 
 - Designed, developed, and maintained full-stack applications, ensuring seamless integration between
