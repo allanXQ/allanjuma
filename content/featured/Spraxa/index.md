@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Spraxa'
 cover: 'spraxa.png'
 github: 'https://github.com/allanXQ/spraxa'

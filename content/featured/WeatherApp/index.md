@@ -1,5 +1,5 @@
 ---
-date: '7'
+date: '5'
 title: 'WeatherApp'
 cover: 'weatherapp.png'
 github: 'https://github.com/allanXQ/weather-app'
