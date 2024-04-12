@@ -18,6 +18,6 @@ Five years ago, I embarked on an incredible journey as a software developer. My 
 
 Currently, I'm a proud member of the [Spraxa Solutions Pvt Ltd](https://www.spraxa.com/) family, where I wear the hat of a Software Developer. Here, my days are filled with the challenges and triumphs of building, testing, and refining a management system for Steris Corporation's inventory. Each bug fixed and each line of code improved is a step forward in this ever-evolving landscape.
 
-My educational path took an interesting turn, blending technology with business. After starting my academic journey with a Bachelor's degree in Computer Science at [Kabarak University](https://kabarak.ac.ke), I later delved into the intricacies of software engineering at [ALX Africa](https://www.alxafrica.com/software-engineering/). This has not only broadened my perspective but also deepened my understanding of the software engineering world.
+My educational path took an interesting turn, blending technology with business. After starting my academic journey in finance with a Bachelor of Commerce at [Kabarak University](https://kabarak.ac.ke), I later delved into the intricacies of software engineering at [ALX Africa](https://www.alxafrica.com/software-engineering/). This unique combination of finance and technology has not only broadened my perspective but also deepened my understanding of how software can drive business success.
 
 Before you delve further into my portfolio, I'd like to present the suite of technologies that I've mastered.
