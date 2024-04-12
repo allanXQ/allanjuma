@@ -1,9 +1,9 @@
 ---
 date: '1'
-title: 'Software Developer(volunteer)'
+title: 'Software Developer(Intern)'
 company: 'Vesta Systems'
 location: 'Bungoma'
-range: 'Apr 2020-Dec 2021'
+range: 'Jan 2020-Feb 2021'
 ---
 
 - Gained comprehensive exposure to the software development lifecycle, from requirement analysis to

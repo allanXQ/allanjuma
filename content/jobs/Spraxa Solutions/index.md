@@ -12,11 +12,8 @@ url: 'https://www.spraxa.com/'
 
 - Proactively identifying and fixing bugs, leading to a 20% decrease in customer-reported issues.
 
-- Participating in regular code reviews, ensuring adherence to best practices and company coding
-  standards.
+- Participating in regular code reviews, ensuring adherence to best practices and company coding standards.
 
-- Actively contributing in sprint planning and retrospectives, offering insights that led to more efficient
-  development cycles.
+- Actively contributing in sprint planning and retrospectives, offering insights that led to more efficient development cycles.
 
-- Collaborating with senior developers to understand complex application requirements and contributing to
-  efficient code solutions.
+- Collaborating with senior developers to understand complex application requirements and contributing to efficient code solutions.
