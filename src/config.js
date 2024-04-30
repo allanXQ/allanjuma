@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/allan-juma/',
+      url: 'https://www.linkedin.com/in/juma-allan/',
     },
     {
       name: 'Twitter',
