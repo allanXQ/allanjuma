@@ -13,11 +13,12 @@ skills:
   - Git
   - Github Actions
 ---
+Five years ago, I embarked on a transformative journey into the world of software development, beginning not in a traditional classroom, but within the boundless realms of the digital universe. My adventure has taken me through the comprehensive domains of full-stack development, driven by a relentless passion for tackling complex problems and an insatiable desire to expand my knowledge.
 
-Five years ago, I embarked on an incredible journey as a software developer. My adventure in the realm of coding began not in a classroom, but in the vast expanse of the digital world. My path led me to the comprehensive and intricate landscape of full-stack development. This journey was fueled by my passion for solving complex problems and my unquenchable thirst for knowledge.
+Currently, I am a dynamic Software Developer at Spraxa Solutions Pvt Ltd, where I am deeply involved in the development, testing, and enhancement of a sophisticated inventory management system for Steris Corporation. Each bug I resolve and every line of code I optimize mark progress in this ever-evolving field, as I contribute to our team's success and the system's efficiency.
 
-Currently, I'm a proud member of the [Spraxa Solutions Pvt Ltd](https://www.spraxa.com/) family, where I wear the hat of a Software Developer. Here, my days are filled with the challenges and triumphs of building, testing, and refining a management system for Steris Corporation's inventory. Each bug fixed and each line of code improved is a step forward in this ever-evolving landscape.
+My academic background uniquely blends technology with business. I began with a Bachelor of Commerce from Kabarak University, focusing on finance, and later pursued software engineering at ALX Africa. This combination has enriched my approach, allowing me to see software development through a business-enhancing lens and leveraging technology to drive organizational success.
 
-My educational path took an interesting turn, blending technology with business. After starting my academic journey in finance with a Bachelor of Commerce at [Kabarak University](https://kabarak.ac.ke), I later delved into the intricacies of software engineering at [ALX Africa](https://www.alxafrica.com/software-engineering/). This unique combination of finance and technology has not only broadened my perspective but also deepened my understanding of how software can drive business success.
+As you explore my portfolio, I invite you to consider the diverse suite of technologies I have mastered and the unique perspective I bring to software development.
 
-Before you delve further into my portfolio, I'd like to present the suite of technologies that I've mastered.
+
