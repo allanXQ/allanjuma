@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Hive'
 cover: 'hive.png'
 github: 'https://github.com/allanXQ/hiveapp'
