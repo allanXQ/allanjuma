@@ -11,10 +11,10 @@ tech:
   - Node Js
   - Mongo DB
   - AWS
+  - Vercel
   - Firebase Auth
-  - Stripe
-  - Tinypesa
+  - Daraja API
 showInProjects: true
 ---
 
-Hive is a platform built to facilitate the creation and management of chamas(informal SACCOs). It enhances transparency in the chamas' operations by making data available to all members. It also enhances security of financial assets. It offers a variaty of chama models including table banking and ROSCA. This is an ongoing project.
+Hive is a platform built to facilitate the creation and management of co-operative societies. It enhances transparency in the societies' operations by making data available to all members. It also enhances security of financial assets. Some of its features include management of members, deposits and disbursement of funds, loan management and exportation of society data for review.
