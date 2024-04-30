@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'BMS'
+title: 'Boardroom Management System'
 cover: 'bms.png'
 github: 'https://github.com/allanXQ/bms'
 external: 'https://bms-tau.vercel.app/home'
