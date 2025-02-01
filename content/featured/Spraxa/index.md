@@ -1,8 +1,7 @@
 ---
-date: '2'
+date: '3'
 title: 'Spraxa'
 cover: 'spraxa.png'
-github: 'https://github.com/allanXQ/spraxa'
 external: 'https://spraxa.vercel.app/'
 tech:
   - Javascript
@@ -11,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-Working with design team to revamp spraxa's website
+A revamp of Spraxa's portfolio website.

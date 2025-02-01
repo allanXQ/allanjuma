@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '6'
 title: 'Verdant Capital'
 cover: 'verdant.png'
 github: 'https://github.com/allanXQ/Verdant_v2'
