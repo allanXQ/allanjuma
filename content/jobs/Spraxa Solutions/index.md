@@ -1,19 +1,25 @@
 ---
 date: '3'
-title: 'Software Developer'
+title: 'Full Stack Developer'
 company: 'Spraxa Solutions Pvt Ltd'
-range: 'Dec 2022 - Present'
+range: 'Dec 2022 – September 2024'
 url: 'https://www.spraxa.com/'
 ---
 
-- Delivering high-quality, robust production code for a diverse array of projects for clients including the Steris corporation
+- Led the development of scalable front-end architectures for a diverse range of client projects, specializing in
+  React and Angular.
 
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholder
+- Implemented responsive design principles to ensure that our web applications operated efficiently across
+  different devices and platforms.
 
-- Proactively identifying and fixing bugs, leading to a 20% decrease in customer-reported issues.
+- Collaborated closely with the product manager, back-end developers and UI/UX designers to ensure
+  seamless integration and a dynamic user experience.
 
-- Participating in regular code reviews, ensuring adherence to best practices and company coding standards.
+- Conducted rigorous unit and integration testing using Jest and Cypress, improving code reliability and
+  application stability.
 
-- Actively contributing in sprint planning and retrospectives, offering insights that led to more efficient development cycles.
+- Regularly contributed to all phases of the agile development process, from initial design through to
+  deployment, emphasizing quick iterations and frequent feedback.
 
-- Collaborating with senior developers to understand complex application requirements and contributing to efficient code solutions.
+- Created and consumed RESTful APIs, ensuring seamless integration between front-end and back-end
+  systems

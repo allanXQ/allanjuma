@@ -3,11 +3,12 @@ date: '2'
 title: 'Software Developer'
 company: 'Vesta Systems'
 location: 'Bungoma'
-range: 'Feb 2021-Dec 2022'
+range: 'Feb 2021 - Dec 2022'
 ---
 
-- Designed, developed, and maintained full-stack applications, ensuring seamless integration between frontend and backend components.
-- Collaborated closely with the design team to implement intuitive and responsive web designs, enhancing user engagement.
-- Supported senior developers in creating scalable application components, leveraging diverse web technologies.
-- Developed and executed unit tests, reinforcing the stability and reliability of key application features.
-- Engaged in brainstorming and ideation sessions, suggesting solutions that were implemented in two major projects.
+- Developed responsive user interfaces for web applications using modern front-end technologies
+- Created and consumed RESTful APIs, ensuring seamless integration between front-end and back-end
+  systems
+- Implemented CI/CD pipelines using GitHub Actions, increasing deployment efficiency by 30%
+- Wrote and executed unit tests to reinforce stability and reliability of key application features
+- Collaborated with stakeholders to align engineering initiatives with business goals
