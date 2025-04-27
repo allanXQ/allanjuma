@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'Spraxa'
 cover: 'spraxa.png'
 external: 'https://spraxa.vercel.app/'
