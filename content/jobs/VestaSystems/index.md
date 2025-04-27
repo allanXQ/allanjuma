@@ -3,7 +3,7 @@ date: '2'
 title: 'Software Developer'
 company: 'Vesta Systems'
 location: 'Bungoma'
-range: 'Feb 2021 - Dec 2022'
+range: 'Feb 2022 - Dec 2022'
 ---
 
 - Developed responsive user interfaces for web applications using modern front-end technologies
