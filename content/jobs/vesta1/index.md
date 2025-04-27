@@ -3,7 +3,7 @@ date: '1'
 title: 'Software Developer(Intern)'
 company: 'Vesta Systems'
 location: 'Bungoma'
-range: 'Jan 2020 - Feb 2021'
+range: 'Jan 2021 - Feb 2022'
 ---
 
 - Assisted in integrating modern JavaScript frameworks into existing projects
