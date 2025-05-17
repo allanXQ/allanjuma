@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Tickplug'
 cover: 'tickplug.png'
 external: 'https://tickplug.com/'
