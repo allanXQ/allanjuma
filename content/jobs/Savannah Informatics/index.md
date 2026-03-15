@@ -1,23 +1,16 @@
 ---
-date: '4'
-title: 'Full Stack Developer'
+date: '3'
+title: 'Software Engineer'
 company: 'Savannah Informatics'
 range: 'September 2024 – Present'
 url: 'https://www.savannahinformatics.com/'
 ---
 
-- Developing and maintaining both legacy and modern codebases using AngularJS and Angular.
+- Build and maintain health informatics systems using React, Angular, Django, and PostgreSQL to support clinical and operational workflows for 2000+ healthcare providers and insurance companies.
 
-- Collaborating closely with backend developers, designers, and project managers to deliver new features
-  aligned with user needs.
+- Implemented behavioral analytics and session replay to analyze real user interactions and uncover UX friction points.
 
-- Proactively monitoring and debugging applications using Sentry, reducing system downtime and improving
-  performance.
+- Lead client demos and feedback sessions to translate real world healthcare needs into product
+  improvements.
 
-- Writing and maintaining unit and integration tests with jasmine and karma to enhance code reliability and
-  prevent regressions.
-
-- Optimizing frontend workflows and implementing performance enhancements, reducing page load times
-  and improving efficiency.
-
-- Participate in daily stand-ups, sprint planning, and retrospective meetings
+- Partner with product managers, designers, and engineers to design and ship new features from concept to deployment.

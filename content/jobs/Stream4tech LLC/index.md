@@ -1,9 +1,9 @@
 ---
-date: '3'
-title: 'Full Stack Developer'
-company: 'Spraxa Solutions Pvt Ltd'
-range: 'Dec 2022 – September 2024'
-url: 'https://www.spraxa.com/'
+date: '1'
+title: 'Junior Software Developer'
+company: 'Stream4tech LLC'
+range: 'December 2022 – June 2023'
+url: 'https://www.stream4.tech/'
 ---
 
 - Led the development of scalable front-end architectures for a diverse range of client projects, specializing in
