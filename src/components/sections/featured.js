@@ -222,7 +222,7 @@ const Featured = ({ data }) => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover } = frontmatter;
+            const { external, title, tech, cover } = frontmatter;
 
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
@@ -250,7 +250,7 @@ const Featured = ({ data }) => {
                     </StyledTechList>
                   )}
                   <StyledLinkWrapper>
-                    {github && (
+                    {/* {github && (
                       <a
                         href={github}
                         target="_blank"
@@ -258,7 +258,7 @@ const Featured = ({ data }) => {
                         aria-label="GitHub Link">
                         <FormattedIcon name="GitHub" />
                       </a>
-                    )}
+                    )} */}
                     {external && (
                       <a
                         href={external}
@@ -272,7 +272,7 @@ const Featured = ({ data }) => {
                 </StyledContent>
 
                 <StyledImgContainer
-                  href={external ? external : github ? github : '#'}
+                  href={external ? external : '#'}
                   target="_blank"
                   rel="nofollow noopener noreferrer">
                   <StyledFeaturedImg fluid={cover.childImageSharp.fluid} alt={title} />
