@@ -12,7 +12,7 @@ tech:
   - Binance API
   - AWS
 
-showInProjects: true
+showInProjects: false
 ---
 
 Verdant Capital is a platform that enables SMEs raise capital by selling digital tokens. Think of it like the stock exchange for digital tokens. This allows SMEs to raise capital and the token holders to earn interest on their investment. It offers an alternative source of capital different from traditional means e.g banks and the actual stock exchange market.

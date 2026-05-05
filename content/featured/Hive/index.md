@@ -14,7 +14,7 @@ tech:
   - Vercel
   - Firebase Auth
   - Daraja API
-showInProjects: true
+showInProjects: false
 ---
 
 Hive is a platform built to facilitate the creation and management of co-operative societies. It enhances transparency in the societies' operations by making data available to all members. It also enhances security of financial assets. Some of its features include management of members, deposits and disbursement of funds, loan management and exportation of society data for review.
